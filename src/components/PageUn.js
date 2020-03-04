@@ -5,7 +5,7 @@ const PageUn = () => {
     const [titre, setTitre] = useState({
         titre: "titre", 
         class: "text-center text-white"
-    }) 
+    })  
 
     const changerTitre = () => {
         return(
