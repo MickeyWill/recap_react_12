@@ -38,8 +38,6 @@ const PageCinq = () => {
         }
     }
 
-    
-
     return(
         <div className="container">
             <div>

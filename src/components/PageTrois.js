@@ -9,7 +9,8 @@ const PageTrois = () => {
     var copie = (event) => {
         input = event.target.value
         setValue(input)
-    }
+    }       
+        
     var go = () => {
         input = value
         setInput(input)
